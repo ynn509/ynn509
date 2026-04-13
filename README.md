@@ -53,18 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/yanny-lafleur509/
